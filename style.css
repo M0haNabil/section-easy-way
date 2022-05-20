@@ -1,0 +1,61 @@
+.booking-fluid {
+    padding: 50px 0;
+    background-color: #222;
+}
+
+.booking-fluid .hp-text h2 {
+    font-weight: 500;
+    margin-bottom: 35px;
+    color: #f5f5f5;
+    font-size: 35px;
+    text-align: center;
+    justify-content: center;
+}
+
+.smallimg {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+    /* padding-left: 30px;
+    padding-right: 30px; */
+    padding: 30px;
+}
+
+
+
+.smallimg>div {
+    text-align: center;
+}
+
+.leftimg {
+    width: 130px;
+    margin-bottom: 20px;
+}
+
+.centerimg {
+    /* padding-left: 200px; */
+    width: 150px;
+}
+
+.rightimg {
+    width: 170px;
+
+}
+
+.smallimg .txt {
+    color: #f5f5f5;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: larger;
+    margin: 0;
+
+}
+
+.smallimg .easyImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+
+}
